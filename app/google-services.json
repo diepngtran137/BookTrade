@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "542256519754",
+    "firebase_url": "https://booktrading-8991f.firebaseio.com",
+    "project_id": "booktrading-8991f",
+    "storage_bucket": "booktrading-8991f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542256519754:android:0b72d4a7e24c34d6",
+        "android_client_info": {
+          "package_name": "info.diepnguyen.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5xuuxicxYPiJz7LkSpEuooIeLzuG2iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

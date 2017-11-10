@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Book Trade</string>
+    <string name="name_input" />
+    <string name="password_input" />
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="sign_up_main">Sign up</string>
+    <string name="log_in_btn">Log in</string>
+    <string name="title_activity_show_book">ShowBook</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Password</string>
+    <string name="publishing_date">Publishing date:</string>
+    <string name="genre_txt">Genre</string>
+    <string name="add_btn">Add</string>
+    <string name="all_book">All Book</string>
+
+    <string-array name="genre_array">
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Sci-fi</item>
+        <item>Tragedy</item>
+    </string-array>
+
+    <string-array name="book">
+        <item>Harry Potter</item>
+        <item>Fifty Shades of Grey	</item>
+        <item>Angels and Demons	</item>
+        <item>Twilight</item>
+        <item>Girl with the Dragon Tattoo,The:Millennium Trilogy	</item>
+        <item>Harry Potter</item>
+        <item>Fifty Shades of Grey	</item>
+        <item>Angels and Demons	</item>
+        <item>Digital Fortress	</item>
+        <item>Very Hungry Caterpillar</item>
+    </string-array>
+</resources>
